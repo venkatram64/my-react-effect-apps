@@ -1,0 +1,12 @@
+{
+  "employees": [
+    {
+      "id": "cej4RS3Uq9BHyhQFnO3V1",
+      "firstName": "Ram",
+      "lastName": "Laxman",
+      "email": "ram@laxman.com",
+      "empNo": "87878",
+      "department": "Tech"
+    }
+  ]
+}
