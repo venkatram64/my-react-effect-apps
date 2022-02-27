@@ -1,0 +1,36 @@
+{
+  "employees": [
+    {
+      "id": "MGfdC_AVub6rV7yqY219N",
+      "firstName": "Srijan",
+      "lastName": "Veerareddy",
+      "email": "srijan.veerareddy@gmail.com",
+      "empNo": "2323",
+      "department": "Tech"
+    },
+    {
+      "id": "1856xx8Ay2sytLAekuljr",
+      "firstName": "Shamanthaka",
+      "lastName": "Veerareddy",
+      "email": "shamanthaka.veerareddy@gmail.com",
+      "empNo": "23232",
+      "department": "Tech"
+    },
+    {
+      "id": "8Wq-ctPA0n3Hge-4D6rMe",
+      "firstName": "Anitha",
+      "lastName": "Veerareddy",
+      "email": "anitha.veerareddy@gmail.com",
+      "empNo": "4343",
+      "department": "HR"
+    },
+    {
+      "id": "kKxj2BBg2r8aKoiVEvl_N",
+      "firstName": "venkat",
+      "lastName": "veeerareddy",
+      "email": "venkat.veerareddy@gmail.com",
+      "empNo": "667",
+      "department": "Tech"
+    }
+  ]
+}
